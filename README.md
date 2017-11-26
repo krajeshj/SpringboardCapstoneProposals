@@ -26,4 +26,4 @@ This led to selection of 3 capstone projects from Kaggle  and UCI machine learni
  
  |Files | Description |
  |:----:|:---|
- 
+ |CapstoneProjectProposal-SPCT1.pdf| PDF file describing the problem, the data, initial approach and deliverables|
